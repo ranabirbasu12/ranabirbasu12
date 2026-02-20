@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ranabirbasu12)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=ranabirbasu12)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranabirbasu12)](https://github.com/anuraghazra/github-readme-stats)
 [Credits to @anuraghazra for this amazing GitHub Readme Stats]
 <!--
