@@ -1,7 +1,10 @@
 # Hi 👋, I'm Ranabir Basu
 
 ### A passionate Python developer
-
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranabirbasu12&label=Profile views&color=0e75b6&style=flat" alt="ranabirbasu12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranabirbasu12" alt="ranabirbasu12" /></a> </p>
